@@ -1,0 +1,6 @@
+﻿Trunk/Temp
+Trunk/Library
+Trunk/Assembly-CSharp.csproj
+Trunk/Assembly-CSharp-Editor.csproj
+*.csproj
+Trunk/Trunk.sln
