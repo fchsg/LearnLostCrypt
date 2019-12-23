@@ -2,9 +2,8 @@
 
 ## Unity2019 2D Sample 
 
-[![Promo](/Image/gif/lostcrypt.gif)]
-
-
+[![Promo](/Image/gif/0.gif)]
+[![Promo](/Image/gif/1.gif)]
 
 ## reference
 
